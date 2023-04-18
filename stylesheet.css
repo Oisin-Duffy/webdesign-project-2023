@@ -1,4 +1,4 @@
-nav {
+nav{
     background-color: orange;
     padding: 5px;
     border: 1px solid yellow;
@@ -48,14 +48,14 @@ paulduffy{
     margin: 0 10px 0 10px;
 }
 section.manager{
-    max-height: 350 px;
+    max-height: 350px;
     overflow: auto;
 }
 footer ul li{
     list-style-type: none;
     color: yellow;
     display: inline;
-    padding: 15 px;
+    padding: 15px;
 }
 footer ul li a{
     color: black;
@@ -72,7 +72,7 @@ footer{
     padding: 0 ;
     margin: 0 ;
     position: relative;
-    bottom: 0 px;
+    bottom: 0px;
     width: 100%;
     background-color: orange;
     text-align: center;
@@ -87,7 +87,7 @@ aside{
 #maincontent{
     float: left;
     width: 80%;
-    border: 5 px solid yellow;
+    border: 5px solid yellow;
 }
 aside ul li {
     list-style-type: none;
