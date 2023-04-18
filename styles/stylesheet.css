@@ -156,45 +156,9 @@ section {
 shipping{
     text-align: center;
 }
+table{
+    width: 90% ;
+}
 th,td,tr{
     text-align: left;
-    border: 2px solid black;
-}
-.required
-{
-    font-weight: bold;
-    color:red;
-}
-label
-{
-    float:left;
-    width:110px;
-    padding-right: 5px;
-    text-align: right;
-}
-input
-{
-    margin-left: 1em;
-    margin-bottom: 1em;
-    width: 250px;
-}
-input[type="checkbox"] {width: 15px;}
-input[type="radio"] {width:10px;}
-
-#button,#reset
-{
-    margin-top: 1px;
-    width: 8em;
-    background-color: orange;
-    border:2px solid black;
-
-}
-table
-{
-    border: 2px solid black;
-    width: 90%;
-    border-collapse: collapse;
-}
-map{
-    align-items: center;
 }
